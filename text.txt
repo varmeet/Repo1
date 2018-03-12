@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is DE9D-1325
+
+ Directory of C:\Users\VarinderSinghSidhu\Desktop\Git Project
+
+12-03-2018  19:42    <DIR>          .
+12-03-2018  19:42    <DIR>          ..
+12-03-2018  19:42                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  393,754,046,464 bytes free
